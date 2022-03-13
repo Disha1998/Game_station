@@ -19,7 +19,8 @@
 5) Reward System: Still there are Web2 users who have not started using Web3 apps so to help them learn, we are going to incentivize users for different actions such as connect wallet, mint NFT etc. 
 
 
-#### So far we have built this much by using 1) Polygon L2 2) IPFS/File coin to store NFT meta data 3) Moralis Cloud functions and 4) Covalent to fetch NFT transactions.
+#### So far we have built this much by using : 1) Polygon L2 2) IPFS/File coin to store NFT meta data 3) Moralis Cloud functions and 4) Covalent to fetch NFT transactions.
+
 ![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/69969675/158071525-d3c6b91f-1859-4778-b1d6-84f97eacedd1.png)
 ![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/69969675/158071588-e504f6d6-2516-49ff-8449-5c2187bd3c1e.png)
 ![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/69969675/158071663-c083cb4b-23c5-4744-9efb-a11c6cae8624.png)
@@ -27,6 +28,8 @@
 
  ## Our Future plans:
 
+
 Web3 is like more we build, more we learn and our next plan is to learn more about Blockchain Gaming, take reviews of current work we have done and then launch it on the main net with required changes. 
+
 
 **WAGMI 😊🚀🚀**
