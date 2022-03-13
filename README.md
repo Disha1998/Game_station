@@ -1,17 +1,5 @@
-# Basic Sample Hardhat Project
+# Game Station - A Gaming community platform where Gamers Hangouts, Trade Gaming Assets and Tokenize their game play moments. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+# Our Aim 
+      At Game Station, our aim is to build a community platform where Gamers can connect with each other, trade their gaming assets as well as create value by minting their Game play moments.
 
-Try running some of the following tasks:
-SKIP_PREFLIGHT_CHECK=true
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-npx hardhat run scripts/deploy.js --network avalancheTest 
-```
