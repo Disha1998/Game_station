@@ -5,6 +5,7 @@
 ### So here I will walk you through the platform we have built:
 1) First users needs to connect with metamask to interact with the platform
 
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/69969675/158071525-d3c6b91f-1859-4778-b1d6-84f97eacedd1.png)
 
 
 2) Create Post: Gamers can create a post with their Game updates/achievements etc and mint it as an NFT.  Minting NFT and tokenizing posts ensures that the user owns it.
