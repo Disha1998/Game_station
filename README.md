@@ -2,7 +2,7 @@
 
 ### At Game Station, our aim is to build a community platform where Gamers can connect with each other, trade their gaming assets as well as create value by minting their Game play moments.
 
-### So here I will walk you through the platform we have built:
+### So let's take you to the platform we created:
 1) First users needs to connect with metamask to interact with the platform
 
 
